@@ -20,6 +20,9 @@ https://snakemake.readthedocs.io/en/stable/.
 ```
 git clone https://github.com/KMA-Aarhus/AssembleQCHybrid.git
 ```
+## DAG of workflow
+![assembleqchybrid](https://user-images.githubusercontent.com/90172976/165513150-c4cd306d-ab01-4964-b82c-1b0dfd637550.png)
+
 ## How to run
 Set up an alias for snakemake to run on slurm:
 ```
